@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "food_name": "Hamburger",
+        "food_price": 77000,
+        "food_ingredients": [
+            "Bread",
+            "Cheese",
+            "Hamburger"
+        ]
+    },
+    {
+        "id": 2,
+        "food_name": "Pizza",
+        "food_price": 88000,
+        "food_ingredients": [
+            "Meat",
+            "Cheese",
+            "Tomato"
+        ]
+    },
+    {
+        "id": 3,
+        "food_name": "Pasta",
+        "food_price": 65000,
+        "food_ingredients": [
+            "Spaghetti",
+            "Sause"
+        ]
+    },
+    {
+        "id": 4,
+        "food_name": "Sushi",
+        "food_price": 54000,
+        "food_ingredients": [
+            "Fish",
+            "Vinegar"
+        ]
+    }
+]
