@@ -11,7 +11,7 @@ try:
         myfile.write(text)
     
     with open(description_path,'w') as description:
-        description.write(f"File Name: {os.path.basename('tamrin 7/myfile.txt')}\nFile Size: {os.path.getsize('tamrin 7/myfile.txt')//1024} KB")
+        description.write(f"File Name: {os.path.basename('Tamrin 7 (Map - Filter - Files)/myfile.txt')}\nFile Size: {os.path.getsize('tamrin 7/myfile.txt')//1024} KB")
 
 except Exception as error:
     print(error)
